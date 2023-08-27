@@ -6,7 +6,7 @@ Zardkat is a cutting-edge template based on [hardhat-circom](https://github.com/
 Clone this repository to your local machine.
 
 ```bash
-git clone --link..................
+git clone https://github.com/nikhlu07/zardkat_metacrafters.git
 ```
 
 Follow these steps to compile the CustomCircuit() circuit and verify it through a smart contract verifier.
